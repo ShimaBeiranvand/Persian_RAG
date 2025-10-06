@@ -24,3 +24,4 @@ The LLaMA LLM generated the answer correctly 100.00% of the time (out of retriev
 How to run : 
 Many different libraries have been used in this code , some of them have version conflict to eachother . therefore , the pdf extraction part should be done separately and then the output of this step should be saved in a file. then next steps libraries should be installed and every time that is said in the code or in the result of installing a library , the code should be restarted. all of these points have been considered in the code . you can just run cell by cell and be careful!
 
+code at : https://colab.research.google.com/drive/1jMI8c-VIDkt8uzbbWHpJXv6j1l3BR3XA?usp=sharing
